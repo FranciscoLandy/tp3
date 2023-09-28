@@ -1,0 +1,28 @@
+body {
+    margin: 0%;
+}
+
+nav {
+    text-align: center;
+    color: black;
+    padding: 15px;
+}
+
+header {
+    border: 1px solid rgb(12, 58, 196);
+    background-image: linear-gradient(45deg, #0bd, #fff);
+    border-radius: 5px;
+    height: 50px;
+}
+
+#item-1 {
+    border: 1px;
+    background-image: linear-gradient(45deg, blue, aqua);
+    width: 30%;
+
+}
+
+#barra {
+    background-color: aqua;
+    border-radius: 7px;
+}
