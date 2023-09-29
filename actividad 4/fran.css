@@ -1,0 +1,19 @@
+section {
+    margin: 1px;
+    background-color: aqua;
+    height: 300px;
+    width: 30%;
+    text-align: center;
+    position: relative;
+    left: 71%;
+    bottom: 1px;
+}
+
+div {
+    padding: 20px;
+}
+
+a {
+    color: black;
+    font-size: 25px;
+}
